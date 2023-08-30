@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Krona One
+Author: Yvonne Schüttler
+Url: https://fonts.google.com/specimen/Krona+One
+
+Font: Montserrat
+Author: Julieta Ulanovsky,Sol Matas,Juan Pablo del Peral,Jacques Le Bailly
+Url: https://fonts.google.com/specimen/Montserrat
